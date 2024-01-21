@@ -1,7 +1,7 @@
 # Description:
 This repository is a repository for storing duplicate names using Laravel. If data is available. Charging cannot continue.
 
-#Video:
+# Video:
 
 https://github.com/Chafithafid30/Laravel-Name-Duplication-Feature-Test/assets/71967665/fd7b462a-a505-4229-956f-a24ff3e66bfd
 
