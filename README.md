@@ -1,3 +1,10 @@
+# Description:
+This repository is a repository for storing duplicate names using Laravel. If data is available. Charging cannot continue.
+
+#Video:
+https://github.com/Chafithafid30/Laravel-Name-Duplication-Feature-Test/assets/71967665/fd7b462a-a505-4229-956f-a24ff3e66bfd
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
